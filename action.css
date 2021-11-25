@@ -1,0 +1,63 @@
+body {
+    background-color: black;
+    color: blue;
+  }
+  .one {
+      text-align: center;
+      color: blue;
+      font-size: 24px;
+  }
+  .two div{
+      color: blue;
+      display: flex;
+      justify-content: space-between;
+  }
+  .search {
+      background-color: black;
+  }
+.three {
+    display: flex;
+    justify-content: space-between;
+}
+.four {
+    display: flex;
+    justify-content: space-between;
+}
+.five {
+    display: flex;
+    justify-content: space-between;
+}
+.six {
+    display: flex;
+    justify-content: space-between;
+}
+.seven {
+    display: flex;
+    justify-content: space-between;
+}
+.cart {
+    position: fixed;
+    bottom: 0px;
+    color: blue;
+}
+button {
+    background-color: blue;
+    font-size: 18px;
+    padding: 10px 20px;
+    border-radius: 40%;
+    border: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+button:hover {
+    background-color: rgb(199, 3, 3);
+}
+.opp {
+    background-color: blue;
+    font-size: 18px;
+    padding: 10px 30px;
+    border-radius: 40%;
+    border: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}

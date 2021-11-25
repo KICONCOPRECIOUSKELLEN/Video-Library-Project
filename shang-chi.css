@@ -1,0 +1,67 @@
+body {
+    background-color: black;
+    color: blue;
+}
+.links nav {
+    display: flex;
+    justify-content: space-between;
+}
+.related {
+    display: flex;
+    justify-content: space-between;
+}
+.relatedpt {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.relatedpt1 {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.cast {
+    border: 1px solid blue;
+}
+.cast td {
+    border: 1px solid blue;
+}
+.block {
+    display: flex;
+    justify-content: space-between;
+}
+.titles {
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+}
+.h3 {
+    font-size: 24px;
+}
+.vids {
+    display: flex;
+    justify-content: space-between;
+}
+.innerin4  {
+    border: 1px solid blue;
+    width: 90%;
+    border-collapse: collapse;
+}
+.innerin4 th,tr {
+    width: 90%;
+    border: blue 1px solid;
+}
+.innerin4 th {
+    width: 50%;
+    height: 50px;
+    text-align: center;
+}
+.innerin4 td, tr {
+    width: 50%;
+    border: solid 1px blue;
+    height: 50px;
+    text-align: center;
+}
+.footer {
+    font-size: 24px;
+}

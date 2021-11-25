@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    color: blue;
+  }
+  .one {
+      text-align: center;
+      color: blue;
+      font-size: 24px;
+  }
+  .two div{
+      color: blue;
+      display: flex;
+      justify-content: space-between;
+  }
+  .search {
+      background-color: black;
+  }
+.cart {
+    position: fixed;
+    bottom: 0px;
+    color: blue;
+} 
+.five {
+    display: flex;
+    justify-content: space-between;
+}
+.six {
+    display: flex;
+    justify-content: space-between;
+}
+.seven {
+    display: flex;
+    justify-content: space-between;
+}
+.eight {
+    display: flex;
+    justify-content: space-between;
+}
